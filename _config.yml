@@ -1,0 +1,28 @@
+name: Erik Weisenburger
+favicon: null
+layout_spectrum: 0.4262015940621495
+typography_spectrum: 0.43142953095957637
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7461027030367404
+  lightness: 0.18900320958346128
+  saturation: 0.7916273043956608
+  rhythmicContrast: 0.06834968319162726
+purpose: []
