@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'Erik Weisenburger, "The Pursuit, 32" x 36", Oil on panel, 2010-11'
-datePublished: '2016-03-24T12:45:03.961Z'
-dateModified: '2016-03-24T12:44:53.972Z'
+description: '"The Pursuit, 32" x 36", Oil on panel, 2010-11'
+datePublished: '2016-03-30T18:56:02.958Z'
+dateModified: '2016-03-30T18:55:13.124Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-24-erik-weisenburger-the-pursuit-32-x-36-oil-on-panel-20.md
@@ -39,4 +39,9 @@ _type: Article
 "At Rachel Carson", 14" x 14", Oil on panel, 2014
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9850fb60-a009-4c5c-8f26-c67b822ee24e.jpg)
 
-"Lunch With Mango", 16" x 16", Oil on panel,
+"Lunch With Mango", 16" x 16", Oil on panel, ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ecb01db-7511-4771-a3aa-f075aef23616.jpg)
+
+"Earl at Fort Bill", 12" x 12", Oil on panel, 2010
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccacd1e2-f90e-4873-ace7-40e5abc15137.jpg)
+
+"Mystery of the Kinglet",
