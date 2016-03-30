@@ -1,7 +1,7 @@
 name: Erik Weisenburger
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.75594
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#557174'
     - '#415e62'
     - '#28454d'
-  brandStrength: 0.9375
+  brandStrength: 1
   lightness: 0.875
   saturation: 1
   rhythmicContrast: 0
