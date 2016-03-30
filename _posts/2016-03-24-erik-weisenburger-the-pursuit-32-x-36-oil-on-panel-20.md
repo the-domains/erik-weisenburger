@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: '"The Pursuit, 32" x 36", Oil on panel, 2010-11'
-datePublished: '2016-03-30T18:56:02.958Z'
-dateModified: '2016-03-30T18:55:13.124Z'
+datePublished: '2016-03-30T18:56:51.723Z'
+dateModified: '2016-03-30T18:56:09.294Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-24-erik-weisenburger-the-pursuit-32-x-36-oil-on-panel-20.md
@@ -44,4 +44,4 @@ _type: Article
 "Earl at Fort Bill", 12" x 12", Oil on panel, 2010
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccacd1e2-f90e-4873-ace7-40e5abc15137.jpg)
 
-"Mystery of the Kinglet",
+"Mystery of the Kinglet", 6" x 9", Oil on panel, 2009
